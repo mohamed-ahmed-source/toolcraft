@@ -1,0 +1,74 @@
+Our ToolCraft Roadmap
+✅ Phase 1 — Frontend
+✅ Header
+✅ Hero
+✅ Popular Tools
+✅ Categories
+⏳ Why Choose ToolCraft
+⏳ Statistics
+⏳ Testimonials (optional)
+⏳ Call To Action
+⏳ Footer
+⏳ Responsive Navigation
+⏳ Dark Mode
+✅ Phase 2 — Django
+Create the Django project
+Create reusable templates
+Move CSS and JS into static/
+Build reusable components
+Connect the homepage
+✅ Phase 3 — Real Tools
+
+We'll start adding tools one by one.
+
+For example:
+
+CSV → Excel
+Excel → CSV
+PDF → Word
+Word → PDF
+QR Generator
+Password Generator
+JSON Formatter
+Image Compressor
+Image Converter
+Unit Converter
+
+Every completed tool is something you can eventually publish.
+
+✅ Phase 4 — User Accounts
+Register
+Login
+Dashboard
+Saved conversions
+Favorites
+✅ Phase 5 — Admin
+
+You'll have an admin panel where you can:
+
+Add new tools
+Enable/disable tools
+View usage statistics
+Manage users
+✅ Phase 6 — Deployment
+
+We'll deploy ToolCraft on a Linux server using:
+
+Ubuntu
+Nginx
+Gunicorn
+PostgreSQL
+HTTPS
+Your own domain
+🎯 Our Goal
+
+We're not building a tutorial project.
+
+We're building a website that can eventually be:
+
+In your portfolio.
+Hosted online.
+Used by real people.
+Expanded over time with new tools.
+
+That's a much more valuable learning experience.
